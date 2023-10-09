@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**sandra7777-P/Sandra7777-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola 👋, soy Sandra Piza
+Una apasionada de la programación
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Acabo de terminar mi proyecto final FixerShoes con el Bootcamp de Henry.
+
+🌱 Actualmente estoy aprendiendo Angular y Typescript.
+
+👯 Estoy buscando colaborar en proyectos de desarrollo de software, o en empresas que desarrollen este tipo de proyectos.
+
+🤝 Deseo oportunidades para adquirir nuevos conocimientos en IT y experiencia laboral en desarrollo Web.
+
+💬 Pregúntame sobre: react-Redux
+
+📫 Me puedes contactar en: sandrapiza18@gmail.com
+
+Connect with me:
+Sandra Piza
+
+Languages and Tools:
+css3 express figma git html5 javascript nextjs nodejs postman react redux
+
+Sandra7777-p
+
